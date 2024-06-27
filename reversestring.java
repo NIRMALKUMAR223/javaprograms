@@ -16,5 +16,6 @@ public class reversestring {
         {
             System.out.println("not a palindrome");
         }
+        sc.close();
     }
 }

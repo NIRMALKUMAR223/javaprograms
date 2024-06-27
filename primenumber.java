@@ -21,6 +21,7 @@ class primenumber
             {
                 System.out.println(i);
             }
+            sc.close();
         }
     }
 }
