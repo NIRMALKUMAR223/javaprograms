@@ -20,7 +20,7 @@ public class anagram {
     static void anagrami (String string1,String string2)
     {
 
-        char[] character1=string1.toCharArray();
+        char[] character1=string1.toCharArray();  
         char[] character2=string2.toCharArray();
         String sorted1=check(character1);
         String sorted2=check(character2);
@@ -39,7 +39,7 @@ public class anagram {
         Scanner sc=new Scanner(System.in);
         String s1=sc.nextLine();
         String s2=sc.nextLine();
-        anagrami(s1, s2);
+        anagrami(s1, s2);   
         sc.close();
     }
 }
