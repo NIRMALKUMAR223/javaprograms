@@ -22,3 +22,5 @@ public class amstrongnumber {
         sc.close();
     }
 }
+
+
