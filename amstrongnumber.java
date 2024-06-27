@@ -19,5 +19,6 @@ public class amstrongnumber {
         {
             System.out.println("not an amstrong");
         }
+        sc.close();
     }
 }
