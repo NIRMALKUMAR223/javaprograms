@@ -19,7 +19,6 @@ public class anagram {
     }
     static void anagrami (String string1,String string2)
     {
-
         char[] character1=string1.toCharArray();  
         char[] character2=string2.toCharArray();
         String sorted1=check(character1);
@@ -33,7 +32,6 @@ public class anagram {
         {
             System.out.println("Not An Anagram");
         }
-
     }
     public static void main(String[] args) {
         Scanner sc=new Scanner(System.in);
