@@ -17,7 +17,7 @@ public class binarysearch {
             }
             else if ( search<array[middle])
             {
-                binarySearch(array, search, lower, middle++);
+                binarySearch(array, search, lower, middle--);
             }
         else
         {
