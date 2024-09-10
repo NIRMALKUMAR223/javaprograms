@@ -1,0 +1,434 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "HomeWork26",
+            "request": "launch",
+            "mainClass": "HomeWork26",
+            "projectName": "shameer_657fa7f9"
+        },
+        {
+            "type": "java",
+            "name": "HomeWork24",
+            "request": "launch",
+            "mainClass": "HomeWork24",
+            "projectName": "shameer_657fa7f9"
+        },
+        {
+            "type": "java",
+            "name": "HomeWork25",
+            "request": "launch",
+            "mainClass": "HomeWork25",
+            "projectName": "shameer_657fa7f9"
+        },
+        {
+            "type": "java",
+            "name": "HomeWork22",
+            "request": "launch",
+            "mainClass": "HomeWork22",
+            "projectName": "shameer_657fa7f9"
+        },
+        {
+            "type": "java",
+            "name": "HomeWork21",
+            "request": "launch",
+            "mainClass": "HomeWork21",
+            "projectName": "shameer_657fa7f9"
+        },
+        {
+            "type": "java",
+            "name": "HomeWork19",
+            "request": "launch",
+            "mainClass": "HomeWork19",
+            "projectName": "shameer_657fa7f9"
+        },
+        {
+            "type": "java",
+            "name": "HomeWork16",
+            "request": "launch",
+            "mainClass": "HomeWork16",
+            "projectName": "shameer_657fa7f9"
+        },
+        {
+            "type": "java",
+            "name": "Homework15",
+            "request": "launch",
+            "mainClass": "Homework15",
+            "projectName": "shameer_657fa7f9"
+        },
+        {
+            "type": "java",
+            "name": "Testtt",
+            "request": "launch",
+            "mainClass": "Testtt",
+            "projectName": "shameer_657fa7f9"
+        },
+        {
+            "type": "java",
+            "name": "HallowSquare",
+            "request": "launch",
+            "mainClass": "HallowSquare",
+            "projectName": "shameer_657fa7f9"
+        },
+        {
+            "type": "java",
+            "name": "HomeWork9",
+            "request": "launch",
+            "mainClass": "HomeWork9",
+            "projectName": "shameer_657fa7f9"
+        },
+        {
+            "type": "java",
+            "name": "HomeWork14",
+            "request": "launch",
+            "mainClass": "HomeWork14",
+            "projectName": "shameer_657fa7f9"
+        },
+        {
+            "type": "java",
+            "name": "HomeWork11",
+            "request": "launch",
+            "mainClass": "HomeWork11",
+            "projectName": "shameer_657fa7f9"
+        },
+        {
+            "type": "java",
+            "name": "HomeWork12",
+            "request": "launch",
+            "mainClass": "HomeWork12",
+            "projectName": "shameer_657fa7f9"
+        },
+        {
+            "type": "java",
+            "name": "HomeWork10",
+            "request": "launch",
+            "mainClass": "HomeWork10",
+            "projectName": "shameer_657fa7f9"
+        },
+        {
+            "type": "java",
+            "name": "HomeWork8",
+            "request": "launch",
+            "mainClass": "HomeWork8",
+            "projectName": "shameer_657fa7f9"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "AbAbc",
+            "request": "launch",
+            "mainClass": "AbAbc",
+            "projectName": "shameer_657fa7f9"
+        },
+        {
+            "type": "java",
+            "name": "Alter",
+            "request": "launch",
+            "mainClass": "Alter",
+            "projectName": "shameer_657fa7f9"
+        },
+        {
+            "type": "java",
+            "name": "AmstrongNumber",
+            "request": "launch",
+            "mainClass": "AmstrongNumber",
+            "projectName": "shameer_657fa7f9"
+        },
+        {
+            "type": "java",
+            "name": "CountNumber",
+            "request": "launch",
+            "mainClass": "CountNumber",
+            "projectName": "shameer_657fa7f9"
+        },
+        {
+            "type": "java",
+            "name": "CountOfEachNumber",
+            "request": "launch",
+            "mainClass": "CountOfEachNumber",
+            "projectName": "shameer_657fa7f9"
+        },
+        {
+            "type": "java",
+            "name": "Dec",
+            "request": "launch",
+            "mainClass": "Dec",
+            "projectName": "shameer_657fa7f9"
+        },
+        {
+            "type": "java",
+            "name": "Factor",
+            "request": "launch",
+            "mainClass": "Factor",
+            "projectName": "shameer_657fa7f9"
+        },
+        {
+            "type": "java",
+            "name": "Factorial",
+            "request": "launch",
+            "mainClass": "Factorial",
+            "projectName": "shameer_657fa7f9"
+        },
+        {
+            "type": "java",
+            "name": "Fibonoci",
+            "request": "launch",
+            "mainClass": "Fibonoci",
+            "projectName": "shameer_657fa7f9"
+        },
+        {
+            "type": "java",
+            "name": "FirstNPrimeNumber",
+            "request": "launch",
+            "mainClass": "FirstNPrimeNumber",
+            "projectName": "shameer_657fa7f9"
+        },
+        {
+            "type": "java",
+            "name": "Gcd",
+            "request": "launch",
+            "mainClass": "Gcd",
+            "projectName": "shameer_657fa7f9"
+        },
+        {
+            "type": "java",
+            "name": "HappyNumber",
+            "request": "launch",
+            "mainClass": "HappyNumber",
+            "projectName": "shameer_657fa7f9"
+        },
+        {
+            "type": "java",
+            "name": "HomeWork1",
+            "request": "launch",
+            "mainClass": "HomeWork1",
+            "projectName": "shameer_657fa7f9"
+        },
+        {
+            "type": "java",
+            "name": "HomeWork2",
+            "request": "launch",
+            "mainClass": "HomeWork2",
+            "projectName": "shameer_657fa7f9"
+        },
+        {
+            "type": "java",
+            "name": "HomeWork3",
+            "request": "launch",
+            "mainClass": "HomeWork3",
+            "projectName": "shameer_657fa7f9"
+        },
+        {
+            "type": "java",
+            "name": "HomeWork4",
+            "request": "launch",
+            "mainClass": "HomeWork4",
+            "projectName": "shameer_657fa7f9"
+        },
+        {
+            "type": "java",
+            "name": "HomeWork5",
+            "request": "launch",
+            "mainClass": "HomeWork5",
+            "projectName": "shameer_657fa7f9"
+        },
+        {
+            "type": "java",
+            "name": "MagicNumber",
+            "request": "launch",
+            "mainClass": "MagicNumber",
+            "projectName": "shameer_657fa7f9"
+        },
+        {
+            "type": "java",
+            "name": "MaxElement",
+            "request": "launch",
+            "mainClass": "MaxElement",
+            "projectName": "shameer_657fa7f9"
+        },
+        {
+            "type": "java",
+            "name": "NearestPrime",
+            "request": "launch",
+            "mainClass": "NearestPrime",
+            "projectName": "shameer_657fa7f9"
+        },
+        {
+            "type": "java",
+            "name": "NthPrimeNumber",
+            "request": "launch",
+            "mainClass": "NthPrimeNumber",
+            "projectName": "shameer_657fa7f9"
+        },
+        {
+            "type": "java",
+            "name": "NumberColumn",
+            "request": "launch",
+            "mainClass": "NumberColumn",
+            "projectName": "shameer_657fa7f9"
+        },
+        {
+            "type": "java",
+            "name": "NumberRow",
+            "request": "launch",
+            "mainClass": "NumberRow",
+            "projectName": "shameer_657fa7f9"
+        },
+        {
+            "type": "java",
+            "name": "OneZero",
+            "request": "launch",
+            "mainClass": "OneZero",
+            "projectName": "shameer_657fa7f9"
+        },
+        {
+            "type": "java",
+            "name": "Palindrome",
+            "request": "launch",
+            "mainClass": "Palindrome",
+            "projectName": "shameer_657fa7f9"
+        },
+        {
+            "type": "java",
+            "name": "Palindrome1",
+            "request": "launch",
+            "mainClass": "Palindrome1",
+            "projectName": "shameer_657fa7f9"
+        },
+        {
+            "type": "java",
+            "name": "PerfectNumber",
+            "request": "launch",
+            "mainClass": "PerfectNumber",
+            "projectName": "shameer_657fa7f9"
+        },
+        {
+            "type": "java",
+            "name": "Power",
+            "request": "launch",
+            "mainClass": "Power",
+            "projectName": "shameer_657fa7f9"
+        },
+        {
+            "type": "java",
+            "name": "PrimeNumber",
+            "request": "launch",
+            "mainClass": "PrimeNumber",
+            "projectName": "shameer_657fa7f9"
+        },
+        {
+            "type": "java",
+            "name": "ProductOfEachNumber",
+            "request": "launch",
+            "mainClass": "ProductOfEachNumber",
+            "projectName": "shameer_657fa7f9"
+        },
+        {
+            "type": "java",
+            "name": "RecurtionFact",
+            "request": "launch",
+            "mainClass": "RecurtionFact",
+            "projectName": "shameer_657fa7f9"
+        },
+        {
+            "type": "java",
+            "name": "Reverse54321",
+            "request": "launch",
+            "mainClass": "Reverse54321",
+            "projectName": "shameer_657fa7f9"
+        },
+        {
+            "type": "java",
+            "name": "ReverseNumber",
+            "request": "launch",
+            "mainClass": "ReverseNumber",
+            "projectName": "shameer_657fa7f9"
+        },
+        {
+            "type": "java",
+            "name": "SmallestOfFourNumber",
+            "request": "launch",
+            "mainClass": "SmallestOfFourNumber",
+            "projectName": "shameer_657fa7f9"
+        },
+        {
+            "type": "java",
+            "name": "Square",
+            "request": "launch",
+            "mainClass": "Square",
+            "projectName": "shameer_657fa7f9"
+        },
+        {
+            "type": "java",
+            "name": "Strong",
+            "request": "launch",
+            "mainClass": "Strong",
+            "projectName": "shameer_657fa7f9"
+        },
+        {
+            "type": "java",
+            "name": "Test",
+            "request": "launch",
+            "mainClass": "Test",
+            "projectName": "shameer_657fa7f9"
+        },
+        {
+            "type": "java",
+            "name": "Triangle",
+            "request": "launch",
+            "mainClass": "Triangle",
+            "projectName": "shameer_657fa7f9"
+        },
+        {
+            "type": "java",
+            "name": "Tribonoci",
+            "request": "launch",
+            "mainClass": "Tribonoci",
+            "projectName": "shameer_657fa7f9"
+        },
+        {
+            "type": "java",
+            "name": "TwinPrime",
+            "request": "launch",
+            "mainClass": "TwinPrime",
+            "projectName": "shameer_657fa7f9"
+        },
+        {
+            "type": "java",
+            "name": "UniqueNumber",
+            "request": "launch",
+            "mainClass": "UniqueNumber",
+            "projectName": "shameer_657fa7f9"
+        },
+        {
+            "type": "java",
+            "name": "UniqueNumberString",
+            "request": "launch",
+            "mainClass": "UniqueNumberString",
+            "projectName": "shameer_657fa7f9"
+        },
+        {
+            "type": "java",
+            "name": "UntillSingle",
+            "request": "launch",
+            "mainClass": "UntillSingle",
+            "projectName": "shameer_657fa7f9"
+        },
+        {
+            "type": "java",
+            "name": "ValidDate",
+            "request": "launch",
+            "mainClass": "ValidDate",
+            "projectName": "shameer_657fa7f9"
+        }
+    ]
+}
