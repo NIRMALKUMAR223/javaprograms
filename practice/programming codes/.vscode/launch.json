@@ -6,6 +6,132 @@
     "configurations": [
         {
             "type": "java",
+            "name": "ArrayHomeWork2",
+            "request": "launch",
+            "mainClass": "ArrayHomeWork2",
+            "projectName": "programming codes_c6f0cf1b"
+        },
+        {
+            "type": "java",
+            "name": "ArrayHomeWork1",
+            "request": "launch",
+            "mainClass": "ArrayHomeWork1",
+            "projectName": "programming codes_c6f0cf1b"
+        },
+        {
+            "type": "java",
+            "name": "HomeWork1",
+            "request": "launch",
+            "mainClass": "HomeWork1",
+            "projectName": "programming codes_c6f0cf1b"
+        },
+        {
+            "type": "java",
+            "name": "MinElement",
+            "request": "launch",
+            "mainClass": "MinElement",
+            "projectName": "programming codes_c6f0cf1b"
+        },
+        {
+            "type": "java",
+            "name": "TestArray",
+            "request": "launch",
+            "mainClass": "TestArray",
+            "projectName": "programming codes_c6f0cf1b"
+        },
+        {
+            "type": "java",
+            "name": "Test",
+            "request": "launch",
+            "mainClass": "Test",
+            "projectName": "programming codes_c6f0cf1b"
+        },
+        {
+            "type": "java",
+            "name": "HomeWork28",
+            "request": "launch",
+            "mainClass": "HomeWork28",
+            "projectName": "programming codes_c6f0cf1b"
+        },
+        {
+            "type": "java",
+            "name": "N",
+            "request": "launch",
+            "mainClass": "N",
+            "projectName": "programming codes_c6f0cf1b"
+        },
+        {
+            "type": "java",
+            "name": "V",
+            "request": "launch",
+            "mainClass": "V",
+            "projectName": "programming codes_c6f0cf1b"
+        },
+        {
+            "type": "java",
+            "name": "OuterDimond",
+            "request": "launch",
+            "mainClass": "OuterDimond",
+            "projectName": "programming codes_c6f0cf1b"
+        },
+        {
+            "type": "java",
+            "name": "HomeWork26",
+            "request": "launch",
+            "mainClass": "HomeWork26",
+            "projectName": "programming codes_c6f0cf1b"
+        },
+        {
+            "type": "java",
+            "name": "Dimond",
+            "request": "launch",
+            "mainClass": "Dimond",
+            "projectName": "programming codes_c6f0cf1b"
+        },
+        {
+            "type": "java",
+            "name": "Testtt",
+            "request": "launch",
+            "mainClass": "Testtt",
+            "projectName": "programming codes_c6f0cf1b"
+        },
+        {
+            "type": "java",
+            "name": "HomeWork18",
+            "request": "launch",
+            "mainClass": "HomeWork18",
+            "projectName": "programming codes_c6f0cf1b"
+        },
+        {
+            "type": "java",
+            "name": "HomeWork17",
+            "request": "launch",
+            "mainClass": "HomeWork17",
+            "projectName": "programming codes_c6f0cf1b"
+        },
+        {
+            "type": "java",
+            "name": "HomeWork19",
+            "request": "launch",
+            "mainClass": "HomeWork19",
+            "projectName": "programming codes_c6f0cf1b"
+        },
+        {
+            "type": "java",
+            "name": "HomeWork20",
+            "request": "launch",
+            "mainClass": "HomeWork20",
+            "projectName": "programming codes_c6f0cf1b"
+        },
+        {
+            "type": "java",
+            "name": "HomeWork27",
+            "request": "launch",
+            "mainClass": "HomeWork27",
+            "projectName": "programming codes_c6f0cf1b"
+        },
+        {
+            "type": "java",
             "name": "HomeWork26",
             "request": "launch",
             "mainClass": "HomeWork26",

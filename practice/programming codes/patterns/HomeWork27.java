@@ -1,5 +1,4 @@
 public class HomeWork27 {
-    
     public static void main(String[] args) {
         int number = 5;
         for (int i = 1; i <=number; i++){
@@ -29,5 +28,4 @@ public class HomeWork27 {
             System.out.println();
         }
     }
-
 }

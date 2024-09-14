@@ -18,6 +18,5 @@ public class Testtt {
             System.out.println();
         }
         sc.close();
-    
 }
 }
