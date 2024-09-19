@@ -6,6 +6,118 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Occurance",
+            "request": "launch",
+            "mainClass": "Occurance",
+            "projectName": "programming codes_c6f0cf1b"
+        },
+        {
+            "type": "java",
+            "name": "RepeatedElementArray",
+            "request": "launch",
+            "mainClass": "RepeatedElementArray",
+            "projectName": "programming codes_c6f0cf1b"
+        },
+        {
+            "type": "java",
+            "name": "UniqueElementArray",
+            "request": "launch",
+            "mainClass": "UniqueElementArray",
+            "projectName": "programming codes_c6f0cf1b"
+        },
+        {
+            "type": "java",
+            "name": "UniqueElement",
+            "request": "launch",
+            "mainClass": "UniqueElement",
+            "projectName": "programming codes_c6f0cf1b"
+        },
+        {
+            "type": "java",
+            "name": "MergeToArrayElements",
+            "request": "launch",
+            "mainClass": "MergeToArrayElements",
+            "projectName": "programming codes_c6f0cf1b"
+        },
+        {
+            "type": "java",
+            "name": "SortingArray",
+            "request": "launch",
+            "mainClass": "SortingArray",
+            "projectName": "programming codes_c6f0cf1b"
+        },
+        {
+            "type": "java",
+            "name": "PairElements",
+            "request": "launch",
+            "mainClass": "PairElements",
+            "projectName": "programming codes_c6f0cf1b"
+        },
+        {
+            "type": "java",
+            "name": "ArrayStrong123",
+            "request": "launch",
+            "mainClass": "ArrayStrong123",
+            "projectName": "programming codes_c6f0cf1b"
+        },
+        {
+            "type": "java",
+            "name": "Strong",
+            "request": "launch",
+            "mainClass": "Strong",
+            "projectName": "programming codes_c6f0cf1b"
+        },
+        {
+            "type": "java",
+            "name": "ArrayStrong",
+            "request": "launch",
+            "mainClass": "ArrayStrong",
+            "projectName": "programming codes_c6f0cf1b"
+        },
+        {
+            "type": "java",
+            "name": "SumofArrayEach",
+            "request": "launch",
+            "mainClass": "SumofArrayEach",
+            "projectName": "programming codes_c6f0cf1b"
+        },
+        {
+            "type": "java",
+            "name": "Reverse",
+            "request": "launch",
+            "mainClass": "Reverse",
+            "projectName": "programming codes_c6f0cf1b"
+        },
+        {
+            "type": "java",
+            "name": "hello",
+            "request": "launch",
+            "mainClass": "hello",
+            "projectName": "programming codes_c6f0cf1b"
+        },
+        {
+            "type": "java",
+            "name": "test2wq",
+            "request": "launch",
+            "mainClass": "test2wq",
+            "projectName": "programming codes_c6f0cf1b"
+        },
+        {
+            "type": "java",
+            "name": "testwe",
+            "request": "launch",
+            "mainClass": "testwe",
+            "projectName": "programming codes_c6f0cf1b"
+        },
+        {
+            "type": "java",
+            "name": "test",
+            "request": "launch",
+            "mainClass": "test",
+            "projectName": "programming codes_c6f0cf1b"
+        },
+        {
+            "type": "java",
             "name": "ArrayHomeWork2",
             "request": "launch",
             "mainClass": "ArrayHomeWork2",
