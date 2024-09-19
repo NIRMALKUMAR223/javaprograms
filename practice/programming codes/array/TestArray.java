@@ -36,7 +36,7 @@ class TestArray{
             arr1[i] = sc.nextInt();
         }
         System.out.println(Arrays.toString(arr1));
-        
+        sc.close();
 
     }
 }
