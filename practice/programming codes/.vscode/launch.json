@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Testtttt",
+            "request": "launch",
+            "mainClass": "Testtttt",
+            "projectName": "programming codes_c6f0cf1b"
+        },
+        {
+            "type": "java",
             "name": "Occurance",
             "request": "launch",
             "mainClass": "Occurance",
