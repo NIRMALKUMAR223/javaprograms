@@ -1,6 +1,6 @@
 class Accenture2{
     public static void main(String[] args) {
-        String str ="hello";
+        String str ="helleo";
         int len = str.length();
         String s = "l";
         int count=0;
