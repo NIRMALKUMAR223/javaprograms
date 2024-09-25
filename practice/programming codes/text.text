@@ -1,0 +1,13 @@
+1.convert uppercase char into lowercase and lowercase into uppercase;
+
+2.count how many vowels and conconensce are present in the give string;
+
+3.count how many are present in the given string with out using given string;
+
+4.convert each word first char into uppercase and remain char lowercase;
+
+5.convert each word last char into uppercase and remining char should be in lowercase;
+
+6.swap each word first char with last char;
+
+7.check the given panagram // anagram or not 

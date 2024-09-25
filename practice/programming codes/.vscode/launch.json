@@ -6,6 +6,69 @@
     "configurations": [
         {
             "type": "java",
+            "name": "LastWord",
+            "request": "launch",
+            "mainClass": "LastWord",
+            "projectName": "programming codes_c6f0cf1b"
+        },
+        {
+            "type": "java",
+            "name": "SwapCase",
+            "request": "launch",
+            "mainClass": "SwapCase",
+            "projectName": "programming codes_c6f0cf1b"
+        },
+        {
+            "type": "java",
+            "name": "FirstAndLast",
+            "request": "launch",
+            "mainClass": "FirstAndLast",
+            "projectName": "programming codes_c6f0cf1b"
+        },
+        {
+            "type": "java",
+            "name": "Vowel",
+            "request": "launch",
+            "mainClass": "Vowel",
+            "projectName": "programming codes_c6f0cf1b"
+        },
+        {
+            "type": "java",
+            "name": "Test23",
+            "request": "launch",
+            "mainClass": "Test23",
+            "projectName": "programming codes_c6f0cf1b"
+        },
+        {
+            "type": "java",
+            "name": "Palindrome1",
+            "request": "launch",
+            "mainClass": "Palindrome1",
+            "projectName": "programming codes_c6f0cf1b"
+        },
+        {
+            "type": "java",
+            "name": "ReverseString",
+            "request": "launch",
+            "mainClass": "ReverseString",
+            "projectName": "programming codes_c6f0cf1b"
+        },
+        {
+            "type": "java",
+            "name": "CountAlphabet",
+            "request": "launch",
+            "mainClass": "CountAlphabet",
+            "projectName": "programming codes_c6f0cf1b"
+        },
+        {
+            "type": "java",
+            "name": "FindMissingElementInbetweenArray",
+            "request": "launch",
+            "mainClass": "FindMissingElementInbetweenArray",
+            "projectName": "programming codes_c6f0cf1b"
+        },
+        {
+            "type": "java",
             "name": "Testtttt",
             "request": "launch",
             "mainClass": "Testtttt",
