@@ -6,6 +6,48 @@
     "configurations": [
         {
             "type": "java",
+            "name": "AlternatePrimeNumbers",
+            "request": "launch",
+            "mainClass": "AlternatePrimeNumbers",
+            "projectName": "programming codes_c6f0cf1b"
+        },
+        {
+            "type": "java",
+            "name": "LongestSubString",
+            "request": "launch",
+            "mainClass": "LongestSubString",
+            "projectName": "programming codes_c6f0cf1b"
+        },
+        {
+            "type": "java",
+            "name": "LongestPalindrome",
+            "request": "launch",
+            "mainClass": "LongestPalindrome",
+            "projectName": "programming codes_c6f0cf1b"
+        },
+        {
+            "type": "java",
+            "name": "SubString",
+            "request": "launch",
+            "mainClass": "SubString",
+            "projectName": "programming codes_c6f0cf1b"
+        },
+        {
+            "type": "java",
+            "name": "Occurence",
+            "request": "launch",
+            "mainClass": "Occurence",
+            "projectName": "programming codes_c6f0cf1b"
+        },
+        {
+            "type": "java",
+            "name": "CountString",
+            "request": "launch",
+            "mainClass": "CountString",
+            "projectName": "programming codes_c6f0cf1b"
+        },
+        {
+            "type": "java",
             "name": "LastWord",
             "request": "launch",
             "mainClass": "LastWord",
